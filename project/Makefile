@@ -27,7 +27,7 @@ INCLUDE_DIRS	=	-I Source/Errors/
 
 CXXFLAGS	+=	-W -Wall -Wextra
 CXXFLAGS	+=	$(INCLUDE_DIRS)
-CXXFLAGS	+=	-std=c++20
+CXXFLAGS	+=	-std=c++2a
 
 NAME	=	project
 
