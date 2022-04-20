@@ -1,7 +1,7 @@
 ---
 # This is a workflow meant for epitech students
 
-name: CI Epitech Project - Octopus
+name: CI Epitech Project
 
 # Controls when the workflow will run
 on:
